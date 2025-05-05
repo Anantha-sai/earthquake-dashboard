@@ -1,7 +1,12 @@
 # 🌍 Earthquake Dashboard - Power BI
-Here's a dashboard I created to analyze global earthquake trends from 1985 to 2023, including:  🌐 Top affected countries  🔔 Tsunami and alert categories  📅 Year-wise and month-wise trends  📍 Global distribution with map visualization
 
-This project visualizes and analyzes global earthquake data using Power BI. It aims to uncover patterns in seismic activity, alert levels, and affected regions.
+This project visualizes and analyzes global earthquake data using Power BI. It explores patterns in seismic activity, alert levels, and geographical distribution of major earthquakes.
+
+Here's a dashboard I created to analyze global earthquake trends from 1985 to 2023, including:  
+🌐 Top affected countries  
+🔔 Tsunami and alert categories 
+📅 Year-wise and month-wise trends  
+📍 Global distribution with map visualization
 
 ## 📊 Dashboard Features
 
@@ -29,13 +34,5 @@ This project visualizes and analyzes global earthquake data using Power BI. It a
 - Predictive modeling for future events
 - Integration with real-time seismic feeds (USGS)
 - Region-specific risk dashboards
-
-## 💻 How to Use
-
-1. Clone/download this repo
-2. Open `Earthquake_Dashboard.pbix` in Power BI Desktop
-3. Refresh the data or replace it with new sources
-
----
 
 Created with ❤️ using Power BI  
