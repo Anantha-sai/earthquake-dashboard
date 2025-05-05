@@ -17,7 +17,7 @@ This project visualizes and analyzes global earthquake data using Power BI. It a
 
 - [🔗 Power BI File (.pbix)](./Earthquake_Dashboard.pbix)
 - [📊 Dataset (.xlsx)](./earthquake_data.xlsx)
-- [🖼️ Dashboard Screenshot](./Earthquake_Screenshort.png)
+- [🖼️ Dashboard Screenshot](./Earthquake_screenshot.png)
 
 ## 📌 Key Insights
 
