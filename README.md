@@ -2,7 +2,7 @@
 
 This project visualizes and analyzes global earthquake data using Power BI. It explores patterns in seismic activity, alert levels, and geographical distribution of major earthquakes.
 
-Here's a dashboard I created to analyze global earthquake trends from 1985 to 2023, including:  
+Here's a dashboard I created to analyze global earthquake trends from 1995 to 2023, including:  
 🌐 Top affected countries  
 🔔 Tsunami and alert categories 
 📅 Year-wise and month-wise trends  
